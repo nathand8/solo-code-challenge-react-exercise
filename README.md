@@ -1,4 +1,4 @@
-# Submission to Solo
+# Submission
 
 ## Running the app
 
@@ -30,6 +30,10 @@ To test a failed API request, search for "Senator" in "Virgin Islands".
 - Total Time: 8:48am - 10:58am (2hrs, 10min)
 - I used bootstrap react and other references. Most are noted in the code base.
 - It's been about 1 year since I've last used React, and my experience then was limited to a few tutorials.
+
+# Demo
+![](demo.gif)
+
 
 # Front End Challenge
 For this programming test you are tasked with creating an interface around 
