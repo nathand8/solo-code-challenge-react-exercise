@@ -1,0 +1,11 @@
+.App {
+  margin: 40px;
+}
+
+.results-container {
+  margin-top: 50px;
+}
+
+.card-header {
+  cursor: pointer;
+}

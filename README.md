@@ -1,3 +1,36 @@
+# Submission to Solo
+
+## Running the app
+
+You must start the node backend from the root of the repo
+```bash
+npm start
+```
+
+You can run this as a react app in development
+```bash
+cd app
+npm start
+```
+
+Or you can run this react app as a production build
+```bash
+cd app
+npm run build
+npm install -g serve
+serve -s build
+```
+
+## Testing
+
+To test a failed API request, search for "Senator" in "Virgin Islands".
+
+## Notes
+
+- Total Time: 8:48am - 10:58am (2hrs, 10min)
+- I used bootstrap react and other references. Most are noted in the code base.
+- It's been about 1 year since I've last used React, and my experience then was limited to a few tutorials.
+
 # Front End Challenge
 For this programming test you are tasked with creating an interface around 
 the open API located at http://whoismyrepresentative.com/api. 
